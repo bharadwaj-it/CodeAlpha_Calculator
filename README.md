@@ -16,6 +16,7 @@ gcc calculator.c -o calculator
 
 ## Sample Output
 ```
+PERFORMING SIMPLE CALCULATOR
 Enter first number: 10
 Enter second number: 5
 List of Operations

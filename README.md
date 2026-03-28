@@ -15,6 +15,7 @@ gcc calculator.c -o calculator
 ./calculator
 
 ## Sample Output
+```
 Enter first number: 10
 Enter second number: 5
 List of Operations
@@ -24,6 +25,7 @@ List of Operations
 4.Division
 Choose your choice: +  
 Result of Addition operation: 15
+```
 
 ## Author
 M.Bharadwaj

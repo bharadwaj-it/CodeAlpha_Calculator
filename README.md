@@ -24,12 +24,6 @@ task/
 │
 └── README.md
 
-## Output ScreenShots
-### ScreenShot 1
-![Output 1](calculator1.png)
-### ScreenShot 2
-![Output 2](calculator2.png)
-
 ## Sample Output
 ```
 PERFORMING SIMPLE CALCULATOR
@@ -77,6 +71,12 @@ List of Operations
 Choose your choice: 4  
 Result of Addition operation: 2.00
 ```
+
+## Output ScreenShots
+### ScreenShot 1
+![Output 1](calculator1.png)
+### ScreenShot 2
+![Output 2](calculator2.png)
 
 ## Author
 M.Bharadwaj

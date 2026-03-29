@@ -26,9 +26,9 @@ task/
 
 ## Output ScreenShots
 ### ScreenShot 1
-![Output 1](task/calculator1.png)
+![Output 1](calculator1.png)
 ### ScreenShot 2
-![Output 2](task/calculator2.png)
+![Output 2](calculator2.png)
 
 ## Sample Output
 ```

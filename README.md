@@ -15,8 +15,7 @@ gcc calculator.c -o calculator
 ./calculator
 
 ## File Structure
----
-
+```
 task/
 │
 ├── calculator.c
@@ -24,8 +23,7 @@ task/
 ├── calculator2.png
 │
 └── README.md
-
----
+```
 
 ## Sample Output
 ```

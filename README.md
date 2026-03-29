@@ -15,11 +15,20 @@ gcc calculator.c -o calculator
 ./calculator
 
 ## File Structure
+
 task/
 │
 ├── calculator.c
-├── calculator.png
+├── calculator1.png
+├── calculator2.png
+│
 └── README.md
+
+## Output ScreenShots
+### ScreenShot 1
+![Output 1](task/calculator1.png)
+### ScreenShot 2
+![Output 2](task/calculator2.png)
 
 ## Sample Output
 ```
